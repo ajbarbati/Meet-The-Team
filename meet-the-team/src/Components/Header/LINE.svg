@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="150" height="20" viewBox="0 0 150 20">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="150" height="20" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="LINE" clip-path="url(#clip-path)">
+    <rect id="Rectangle_1" data-name="Rectangle 1" width="150" height="20" fill="#fff"/>
+    <line id="Line_1" data-name="Line 1" x2="150" transform="translate(0 10)" fill="none" stroke="#b9b9b9" stroke-width="1"/>
+  </g>
+</svg>

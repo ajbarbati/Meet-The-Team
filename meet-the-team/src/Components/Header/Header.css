@@ -1,0 +1,32 @@
+.header {
+  display: grid;
+  grid-template-columns: 33.3% 33.3% 33.3%;
+  grid-template-rows: 100%;
+  width: 100%;
+  font-family: "Josefin Sans", sans-serif;
+  
+}
+
+.lineL {
+  grid-column: 1;
+  grid-row: 1;
+  width: 100%;
+}
+.lineR {
+  grid-column: 3;
+  grid-row: 1;
+  width: 100%;
+}
+
+.diamondDiv {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  grid-column: 2;
+  grid-row: 1;
+  font-size: .65rem;
+  letter-spacing: 0.3rem;
+}
