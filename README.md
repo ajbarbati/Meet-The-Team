@@ -1,4 +1,4 @@
-# Welcome This is My Quiz for SKYCATCHFIRE
+# Welcome Meet the Team Web Site that was done for a coding quiz.
 
 ## I built this site using React
 
