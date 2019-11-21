@@ -1,6 +1,6 @@
 # Meet the Team
 
-Link - 
+Link -  https://ajbarbati.github.io/Meet-The-Team/
 
 ### Summary
     
