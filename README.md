@@ -19,6 +19,6 @@ Link -  https://ajbarbati.github.io/Meet-The-Team/
 ### Screenshots
 
     - Original Image
-    ![alt text](https://github.com/ajbarbati/Meet-The-Team/blob/master/meet-the-team/src/Components/images/mockup.png "Original Image")
+    ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1") Image")
     - Version 1
     - Version 2 
