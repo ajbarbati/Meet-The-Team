@@ -1,25 +1,22 @@
-# Welcome Meet the Team Web Site that was done for a coding quiz.
+# Meet the Team
 
-## I built this site using React
+Link - 
 
-- The main reason I did this is because it's my strong suit. Also I did see that your company uses Angular and I thought they share similar concepts.
+## Summary
+    
+    - This web site was built as part of a design challenge, I was tasked to create a web site that was a copy of a web site just based on a picture.
+    
+    - I then decided to make it in to a web site about me. 
+    
+## Outline
 
-- It is laid out using CSS Grid this makes the most sense to me and you can get very precise with it.
+    - Header
+    - Main Picture Array
+        - Hover over for more info
+    - Footer
 
-## Some of the issues I ran into
+## Screenshots
 
-- The first tough issue I ran into was the lines in the header, I wasn't quite sure how you did that. I first tried a couple solutions I found on CodePen using display:table; and span tags with borders representing the lines. When I decided this wasn’t accurate enough,  I decided to create a vector image of a line with a white background and center it then laid out the whole header with its own grid.
-
-- Getting the logo and quotes positioned correctly (which still isn't perfect) I completely forgot about position:relative; (parent)/position:absolute; (child).
-
-- Getting the logo I just ended up badly photoshopping it from the image you provided.
-
-## The Things I would like to touch up if I had infinite time
-
-- I would like to fix up the quote section I don't know if it was the font I used or they way I placed it but it doesn't exactly line up.
-
-- My grid spacing
-
-- overall letter spacing needs some fine tuning
-
-- I wish I would have made all the pictures one component that I could re-use more than once.
+    - Original Image
+    - Version 1
+    - Version 2 
